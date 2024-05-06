@@ -1,0 +1,22 @@
+{
+  "name": "react-mail-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SOUTHYYY/react-mail-example.git",
+  "author": "Laptyrev Alex <laptyriev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "email build",
+    "dev": "email dev",
+    "export": "email export"
+  },
+  "dependencies": {
+    "@react-email/components": "0.0.17",
+    "react-email": "2.1.2",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.33",
+    "@types/react-dom": "18.2.14"
+  }
+}
